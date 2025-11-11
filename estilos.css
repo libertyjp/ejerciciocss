@@ -1,0 +1,18 @@
+
+.ejemplo{color: rgb(190, 160, 6);
+
+}
+#imagen{background-image:url(https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/assets/hero.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+color: white;
+font-size: xxx-large;
+
+
+
+}
+
+.tamaño{
+    font-size: medium;
+}
+
